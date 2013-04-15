@@ -1,9 +1,9 @@
 .. _mod_wsgi-deployment:
 
-mod_wsgi (Apache)
+mod_wsgi (아파치)
 =================
 
-If you are using the `Apache`_ webserver, consider using `mod_wsgi`_.
+만약 `아파치`_ 웹서버를 사용하고 있다면, `mod_wsgi`_를 사용하는 것을 고려하라.
 
 .. admonition:: Watch Out
 
