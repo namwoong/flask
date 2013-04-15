@@ -11,8 +11,7 @@
 만약 다른 WSGI 서버가 있다면, 그 서버에서 WSGI 어플리케이션을 사용하는 방법에 대해 해당 서버 문서를 참조하라.
 :class:`Flask` 어플리케이션 객체가 실제로 WSGI 어플리케이션임을 기억하라.
 
-For hosted options to get up and running quickly, see
-:ref:`quickstart_deployment` in the Quickstart.
+빠르게 배포하고 실행하기 위한 옵션을 확인하려면, Quickstart의 :ref:`quickstart_deployment` 를 확인하라.
 
 .. toctree::
    :maxdepth: 2
