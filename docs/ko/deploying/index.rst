@@ -1,6 +1,6 @@
 .. _deployment:
 
-Deployment Options
+배포 옵션
 ==================
 
 Depending on what you have available there are multiple ways to run
