@@ -1,4 +1,4 @@
-CGI
+씨이아이
 ===
 
 If all other deployment methods do not work, CGI will work for sure.
